@@ -4,14 +4,14 @@ Java COMPLETO Programação Orientada a Objetos + Projetos"**](https://www.udemy
 da Udemy.</br>
 Com o professor _Nélio Alves._</br></br>
 
-Enumerações:
+### Enumerações:
 
 - É um tipo especial que serve para
 especificar de forma literal um conjunto de constantes relacionadas.
 
 - Palavra chave em Java: enum.
   
--Vantagem: melhor semântica, código mais legível e auxiliado pelo compilador.
+- Vantagem: melhor semântica, código mais legível e auxiliado pelo compilador.
 
         Referências: https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
 ![img.png](img.png)
