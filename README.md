@@ -6,7 +6,7 @@ Com o professor _Nélio Alves._</br></br>
 
 Enumerações:
 
--É um tipo especial que serve para
+- É um tipo especial que serve para
 especificar de forma literal um conjunto de constantes relacionadas.
 
 - Palavra chave em Java: enum.
