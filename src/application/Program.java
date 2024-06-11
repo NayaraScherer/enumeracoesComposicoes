@@ -3,6 +3,7 @@ package application;
 import entities.enums.OrderStatus;
 import entitiess.Order;
 
+import java.sql.SQLOutput;
 import java.util.Date;
 
 public class Program {
@@ -19,5 +20,6 @@ public class Program {
         System.out.println(os1);
         System.out.println(os2);
         System.out.println(order);
+        System.out.println("teste");
     }
 }
